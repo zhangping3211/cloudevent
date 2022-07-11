@@ -4,6 +4,7 @@
 1、下载安装包
 https://www.keycloak.org/getting-started/getting-started-zip
 
+
 1、什么是 keycloak
 
 
@@ -11,6 +12,7 @@ https://www.keycloak.org/getting-started/getting-started-zip
 
 
 本地安装测试：
+https://www.jianshu.com/p/2275ae26bcd1  详细安装记录
 
 红帽 redhat 单点登录
 中文文档：https://keycloak.org.cn/documentation.htm
