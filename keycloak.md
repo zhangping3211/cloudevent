@@ -6,23 +6,23 @@ https://www.keycloak.org/getting-started/getting-started-zip
 <br>
 
 1、什么是 keycloak
-keycloak是一个开源的进行身份认证和访问控制的软件。是由Red Hat基金会开发的，我们可以使用keycloak方便的向应用程序和安全服务添加身份认证，非常的方便。基于 Java 开发，支持多种数据库。<br>
+keycloak是一个开源的进行身份认证和访问控制的软件。是由Red Hat基金会开发的，我们可以使用keycloak方便的向应用程序和安全服务添加身份认证，非常的方便。基于 Java 开发，支持多种数据库。 <br>
 2、主要功能：
-SSO<br>
-单点登录（Single-Sign On），支持 OpenID Connect、OAuth 2.0、SAML 2.0 标准协议。<br>
+SSO <br>
+单点登录（Single-Sign On），支持 OpenID Connect、OAuth 2.0、SAML 2.0 标准协议。 <br>
 Identity Brokering and Social Login
-通过配置，可实现对不同身份认证服务的集成，通过这些身份认证服务登录应用。如 GitHub、Google 等，开源社区也有人提供了微信集成方案。<br>
+通过配置，可实现对不同身份认证服务的集成，通过这些身份认证服务登录应用。如 GitHub、Google 等，开源社区也有人提供了微信集成方案。 <br>
 User Federation
-用户联合，提供了对 LDAP、Active Directory、Kerberos 的集成方案。<br>
+用户联合，提供了对 LDAP、Active Directory、Kerberos 的集成方案。 <br>
 Client Adapters
-不同平台多种语言的支持，Java、Python、Go、Node.js、Spring、Quarkus 等。<br>
+不同平台多种语言的支持，Java、Python、Go、Node.js、Spring、Quarkus 等。 <br>
 后台管理
-提供了多种语言的后台管理界面，如果想偷懒的话改改图标定制个主题就能拿来用。同时还有 CLI 、SDK 和 RESTful API。<br>
+提供了多种语言的后台管理界面，如果想偷懒的话改改图标定制个主题就能拿来用。同时还有 CLI 、SDK 和 RESTful API。 <br>
 授权服务
-提供基于 RBAC、ABAC、UBAC 等多种策略的授权功能。<br>
+提供基于 RBAC、ABAC、UBAC 等多种策略的授权功能。 <br>
 其他常用功能
 密码策略、暴力检测、MFA、日志审计。
-<br>
+ <br>
 
 
 
