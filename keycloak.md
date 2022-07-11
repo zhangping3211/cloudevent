@@ -21,7 +21,7 @@ https://www.keycloak.org/getting-started/getting-started-zip
 2、
 首次登录可以创建账号，很友好。
 Admin / 1234 
-
+![avatar](/Users/zhangping/Documents/szx/soft/keycloak/imag/注册.jpg)
 
 
 
