@@ -8,9 +8,7 @@ UAA 是 User Account and Authentication 首字母的缩写， 是 CloudFoundry�
 UAA 是 OAuth2 授权服务器。在应用程序获取访问令牌之前，开发人员必须执行一次性注册过程才能在 UAA 中创建客户端。
 uaa旨在方便管理授权证明。
 2、uaa 架构图
-
-
-
+![img](https://github.com/zhangping3211/cloudevent/blob/main/img/uaa1.png)
 
 3、uaa 支持的协议
 
@@ -28,7 +26,7 @@ uaa旨在方便管理授权证明。
    登录服务器可以支持saml, ldap, openid2(谷歌)，oauth 1.1 (twitter)， facebook等。
    一些登录服务器代理oauth2令牌端点到uaa。
    我们正在努力使登录服务器上的/info端点可用:oauth2令牌和授权，scim用户和组，openid连接userinfo等。
-
+   ![img](https://github.com/zhangping3211/cloudevent/blob/main/img/uaa2.png)
 
 https://github.com/cloudfoundry/uaa/blob/develop/docs/UAA-Overview.rst#openid-connect-and-oauth2
 认证服务：https://github.com/cloudfoundry/uaa/blob/develop/docs/UAA-Overview.rst#openid-connect-and-oauth2
@@ -57,9 +55,8 @@ UAA 上可用的授权类型包括：
 4.4 授权码 流程
 官方示例：
 
+![img](https://github.com/zhangping3211/cloudevent/blob/main/img/uaa3.png)
 
-
-
-
+![img](https://github.com/zhangping3211/cloudevent/blob/main/img/uaa4.png)
 
 5、优缺点
