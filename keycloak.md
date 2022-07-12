@@ -1,10 +1,9 @@
-红帽 redhat 单点登录
+红帽 redhat 单点登录 <br>
 中文文档：https://keycloak.org.cn/documentation.htm
 <br>
 下载安装包
 https://www.keycloak.org/getting-started/getting-started-zip
 <br>
-
 1、什么是 keycloak
 keycloak是一个开源的进行身份认证和访问控制的软件。是由Red Hat基金会开发的，我们可以使用keycloak方便的向应用程序和安全服务添加身份认证，非常的方便。基于 Java 开发，支持多种数据库。 <br>
 2、主要功能：
