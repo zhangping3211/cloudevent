@@ -75,5 +75,9 @@ UAA 上可用的授权类型包括：  <br>
  <br/>
 ![img](https://github.com/zhangping3211/cloudevent/blob/main/img/uaa4.png)
 
-5、优缺点
+5、优缺点  <br/>
+优点：服务代码单独部署，java语言开发，修改方便，支持协议多。 <br/>
+缺点：
+需要单端分离部署，前端部署文档缺少，操作困难。
+
 <br/>
